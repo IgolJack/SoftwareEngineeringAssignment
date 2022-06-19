@@ -1,0 +1,18 @@
+Круг добра. Статус заявления
+https://nsi.rosminzdrav.ru/#!/refbook/1.2.643.5.1.13.13.99.2.757/version/1.2
+Круг добра. Срочность заявки
+https://nsi.rosminzdrav.ru/#!/refbook/1.2.643.5.1.13.13.99.2.755/version/1.1
+Круг добра. Результат оказания МП
+https://nsi.rosminzdrav.ru/#!/refbook/1.2.643.5.1.13.13.99.2.753/version/1.1
+Круг добра. Причина смерти
+https://nsi.rosminzdrav.ru/#!/refbook/1.2.643.5.1.13.13.99.2.752/version/1.1
+Круг добра. Причина перевода в архив
+https://nsi.rosminzdrav.ru/#!/refbook/1.2.643.5.1.13.13.99.2.751/version/1.1
+Круг добра. Предметы заявления
+https://nsi.rosminzdrav.ru/#!/refbook/1.2.643.5.1.13.13.99.2.748/version/1.3
+Круг добра. Статус заявки
+https://nsi.rosminzdrav.ru/#!/refbook/1.2.643.5.1.13.13.99.2.756/version/1.4
+Круг добра. Перечень заболеваний
+https://nsi.rosminzdrav.ru/#!/refbook/1.2.643.5.1.13.13.99.2.819/version/1.9
+Круг добра. Соответствие заболеваний и диагнозов МКБ10
+https://nsi.rosminzdrav.ru/#!/refbook/1.2.643.5.1.13.13.99.2.820/version/1.12
